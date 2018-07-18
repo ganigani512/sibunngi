@@ -1,0 +1,31 @@
+﻿  game_main.cpp
+c:\users\vantan\dropbox\大神拓也\四分木\program\support\vec3.h(167): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+c:\users\vantan\dropbox\大神拓也\四分木\program\game\utility.h(41): warning C4244: '引数': 'int' から 'const float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(23): warning C4244: '引数': 'int' から 'const float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(35): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(38): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(41): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(55): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(75): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Sibunngi.cpp
+c:\users\vantan\dropbox\大神拓也\四分木\program\support\vec3.h(167): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+c:\users\vantan\dropbox\大神拓也\四分木\program\game\utility.h(41): warning C4244: '引数': 'int' から 'const float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(23): warning C4244: '引数': 'int' から 'const float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(35): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(38): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(41): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(55): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(75): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.h(76): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.cpp(15): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.cpp(16): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.cpp(39): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.cpp(49): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.cpp(50): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.cpp(51): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\vantan\dropbox\大神拓也\四分木\program\myengine\sibunngi.cpp(53): warning C4244: '引数': 'int' から 'const float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  dx_game.vcxproj -> C:\Users\vantan\Dropbox\大神拓也\四分木\Debug\dx_game.exe
